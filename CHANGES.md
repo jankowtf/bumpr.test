@@ -1,3 +1,7 @@
+# Version 0.0.24
+
+----------
+
 # Version 0.0.23
 fatal: ambiguous argument 'v0.0.22...HEAD': unknown revision or path not in the working tree.
 Use '--' to separate paths from revisions, like this:
