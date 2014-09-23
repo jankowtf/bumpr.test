@@ -1,8 +1,8 @@
 Package: bumpr.test
 Type: Package
 Title: What the package does (short line)
-Version: 0.0.15
-Date: 2014-09-23 23:13:31
+Version: 0.0.21
+Date: 2014-09-23 23:45:48
 Author: Who wrote it
 Maintainer: Who to complain to <yourfault@somewhere.net>
 Description: More about what it does (maybe more than one line)
