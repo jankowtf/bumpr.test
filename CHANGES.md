@@ -1,0 +1,40 @@
+# Version 0.0.13
+fatal: ambiguous argument 'v0.0.12...HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+
+----------
+
+# Version 0.0.12
+fatal: ambiguous argument 'v0.0.11...HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+
+----------
+
+# Version 0.0.11
+fatal: ambiguous argument 'v0.0.10...HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+
+----------
+
+# Version 0.0.8
+fatal: ambiguous argument 'v0.0.7...HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+
+----------
+
+# Version 0.0.2
+
+----------
+
+# Version 0.0.1
+fatal: ambiguous argument 'v1.0...HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+
+----------
+
+

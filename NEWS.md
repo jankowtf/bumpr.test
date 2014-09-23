@@ -1,0 +1,13 @@
+# CHANGES IN bumpr.test VERSION 0.0.13
+
+## NEW FEATURES
+
+## BUG FIXES
+
+## MAJOR CHANGES
+
+## MINOR CHANGES
+
+## MISC
+
+-----

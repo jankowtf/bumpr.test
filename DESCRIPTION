@@ -1,0 +1,9 @@
+Package: bumpr.test
+Type: Package
+Title: What the package does (short line)
+Version: 0.0.14
+Date: 2014-09-23 22:34:59
+Author: Who wrote it
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
