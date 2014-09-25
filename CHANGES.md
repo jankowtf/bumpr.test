@@ -1,3 +1,17 @@
+# Version 0.0.28
+fatal: ambiguous argument 'v0.0.27...HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+
+----------
+
+# Version 0.0.27
+fatal: ambiguous argument 'v0.0.26...HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+
+----------
+
 # Version 0.0.24
 
 ----------
