@@ -1,3 +1,7 @@
+# Version 0.1.1
+
+----------
+
 # Version 0.1.0
  - Version bump to 0.0.51
 
